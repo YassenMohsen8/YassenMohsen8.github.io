@@ -1,6 +1,6 @@
 {
-    "name": "flutter_server",
-    "short_name": "flutter_server",
+    "name": "map_test",
+    "short_name": "map_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
