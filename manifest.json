@@ -1,6 +1,6 @@
 {
-    "name": "flutter_server",
-    "short_name": "flutter_server",
+    "name": "gps_open_street_map",
+    "short_name": "gps_open_street_map",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
