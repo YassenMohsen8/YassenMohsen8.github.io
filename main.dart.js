@@ -74883,7 +74883,7 @@ return A.Q($async$wy,r)}}
 A.a4d.prototype={}
 A.Hi.prototype={
 H(a){var s=null
-return new A.wC(B.Nx,"\u062d\u0627\u0633\u0628\u0629 \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a",A.rc(s,s,"Cairo",B.eo,B.j,B.RK,s),!1,s)}}
+return new A.wC(B.Nx,"\u062d\u0627\u0633\u0628\u0629 \u0627\u0644\u0627\u0633\u062a\u0647\u0644\u0627\u0643 \u0627\u0644\u0645\u0627\u0626\u064a",A.rc(s,s,"Cairo",B.eo,B.j,B.RK,s),!1,s)}}
 A.kM.prototype={}
 A.oT.prototype={
 pN(a){return this.a3O(a)},
@@ -74895,10 +74895,10 @@ case 2:if(!c)A.aj6().$1("Could not launch "+a)
 return A.P(null,r)}})
 return A.Q($async$pN,r)},
 H(a){var s,r,q,p,o=null,n=t.N,m=A.b([A.F(["name","\u0645\u062d\u0645\u062f \u0635\u0628\u0631\u064a \u0643\u0645\u0627\u0644","phone","01017826969"],n,n),A.F(["name","\u062e\u0627\u0644\u062f \u0627\u0633\u0645\u0627\u0639\u064a\u0644 \u0643\u0627\u0645\u0644","phone","01121803518"],n,n),A.F(["name","\u0645\u062d\u0645\u0648\u062f \u0645\u062d\u0645\u062f \u0627\u0628\u0648 \u062d\u0645\u062f\u0629","phone","01024257417"],n,n),A.F(["name","\u0627\u062d\u0645\u062f \u0645\u062d\u0645\u062f \u0639\u0628\u062f\u0627\u0644\u0639\u0627\u0644","phone","01119314300"],n,n),A.F(["name","\u0627\u062d\u0645\u062f \u064a\u0627\u0633\u0631","phone","01021521506"],n,n),A.F(["name","\u064a\u0648\u0633\u0641 \u062d\u0645\u0627\u062f\u0629","phone","01272307221"],n,n)],t.m0)
-n=A.TN(B.v,!0,0,B.El,B.RZ)
+n=A.TN(B.v,!0,0,B.El,B.S_)
 s=A.fC(o,o,B.u,o,B.zj,o,o,o,o)
 r=t.p
-q=A.b([B.AW,B.No,B.RY,new A.k9("\u0645\u0634\u0631\u0641 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062f\u0643\u062a\u0648\u0631 : \u0627\u062d\u0645\u062f \u0631\u0645\u0636\u0627\u0646","\u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641 : 01009875547",B.Ei,o),B.CY,B.Sa,B.xL],r)
+q=A.b([B.AW,B.No,B.RZ,new A.k9("\u0645\u0634\u0631\u0641 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u062f\u0643\u062a\u0648\u0631 : \u0627\u062d\u0645\u062f \u0631\u0645\u0636\u0627\u0646","\u0631\u0642\u0645 \u0627\u0644\u0647\u0627\u062a\u0641 : 01009875547",B.Ei,o),B.CY,B.Sa,B.xL],r)
 p=t.J4
 B.b.P(q,A.a1(new A.aa(m,new A.Tq(),p),!0,p.i("aB.E")))
 return A.v6(A.II(n,A.iw(B.bE,A.b([s,A.IH(!0,A.apT(A.dV(A.b([new A.Ar(new A.bf(B.Dv,A.dV(q,B.aK,B.X,B.al),o),o),B.cc,new A.Ar(new A.bf(B.c4,A.dV(A.b([B.S7,new A.k9("\u0645/ \u064a\u0627\u0633\u064a\u0646 \u0645\u062d\u0633\u0646 \u064a\u0627\u0633\u064a\u0646","\u0643\u0644\u064a\u0629 \u0627\u0644\u0647\u0646\u062f\u0633\u0629 - \u062c\u0627\u0645\u0639\u0629 \u0627\u0644\u0641\u064a\u0648\u0645",B.Eg,o),B.xL,new A.zM("krymmhsny11@gmail.com",B.Ef,new A.Tr(this),o),new A.zM("\u062d\u0633\u0627\u0628 \u0644\u064a\u0646\u0643\u062f \u0625\u0646",B.Eh,new A.Ts(this),o)],r),B.aK,B.X,B.al),o),o)],r),B.aq,B.X,B.al),B.lS),B.aV,!0)],r),B.T,B.bh,o),!0,o),B.ax)}}
@@ -74965,7 +74965,7 @@ m=A.cs(s.h(0,"Rs").a.a)
 if(m==null)m=0
 l=A.cs(s.h(0,"W").a.a)
 return o+n*(m*(l==null?0:l))
-case"\u0645\u0639\u0627\u062f\u0644\u0629 \u0627\u0644\u062a\u0628\u062e\u0631 \u0645\u0646 \u062d\u0648\u0636":s=b.f
+case"\u0645\u0639\u0627\u062f\u0644\u0629 \u0648\u0639\u0627\u0621 \u0627\u0644\u0628\u062e\u0631":s=b.f
 k=A.cs(s.h(0,"Kp").a.a)
 if(k==null)k=0
 j=A.cs(s.h(0,"Epan").a.a)
@@ -74994,8 +74994,8 @@ for(s=this.f.gaN(),r=A.k(s),s=new A.bc(J.aH(s.a),s.b,r.i("bc<1,2>")),r=r.y[1];s.
 if(q==null)q=r.a(q)
 q.N$=$.ai()
 q.y2$=0}this.aF()},
-H(a){var s=this,r=null,q=A.TN(B.eo,!0,r,r,B.S2),p=A.hZ(10),o=s.d,n=$.amC(),m=A.Y(n).i("aa<1,kK<B>>"),l=t.p
-p=A.b([A.ut(new A.bf(B.c4,A.dV(A.b([B.RT,B.aG,new A.py(A.a1(new A.aa(n,new A.adc(),m),!0,m.i("aB.E")),o,new A.add(s),A.fC(r,r,B.u,r,r,r,r,r,r),!0,r,t.Af)],l),B.aK,B.X,B.al),r),4,r,new A.bV(p,B.m)),B.cc],l)
+H(a){var s=this,r=null,q=A.TN(B.eo,!0,r,r,B.RS),p=A.hZ(10),o=s.d,n=$.amC(),m=A.Y(n).i("aa<1,kK<B>>"),l=t.p
+p=A.b([A.ut(new A.bf(B.c4,A.dV(A.b([B.RU,B.aG,new A.py(A.a1(new A.aa(n,new A.adc(),m),!0,m.i("aB.E")),o,new A.add(s),A.fC(r,r,B.u,r,r,r,r,r,r),!0,r,t.Af)],l),B.aK,B.X,B.al),r),4,r,new A.bV(p,B.m)),B.cc],l)
 o=s.e
 if(o!=null){n=A.hZ(10)
 p.push(A.ut(new A.bf(B.c4,A.dV(A.b([B.S9,B.aG,A.vW(o.b,B.hW,150,1/0),B.aG,B.k6,B.jY,A.d7(o.c,r,r,r,B.k4,r,r)],l),B.aK,B.X,B.al),r),4,r,new A.bV(n,B.m)))}p.push(B.cc)
@@ -75004,14 +75004,14 @@ n=A.b([B.S4,B.aG],l)
 m=s.e.e
 B.b.P(n,new A.aa(m,new A.ade(s),A.Y(m).i("aa<1,e>")))
 n.push(B.cc)
-n.push(A.ak3(!1,B.S_,r,r,B.e7,r,r,r,r,new A.adf(s,a),r,r))
+n.push(A.ak3(!1,B.S0,r,r,B.e7,r,r,r,r,new A.adf(s,a),r,r))
 p.push(A.ut(new A.bf(B.c4,A.dV(n,B.aK,B.X,B.al),r),4,r,new A.bV(o,B.m)))}if(s.r!=null){o=A.hZ(10)
 n=$.avs()
 m=s.f
-p.push(A.ut(new A.bf(B.c4,A.dV(A.b([B.RX,B.aG,A.vW(n.b,B.hW,150,1/0),B.aG,B.k6,B.jY,A.d7(n.c,r,r,r,B.k4,r,r),B.aG,A.lG(m.h(0,"ETo"),B.EG,B.bS),B.aG,A.lG(m.h(0,"Kc"),B.EJ,B.bS),B.cc,A.ak3(!1,B.S0,r,r,B.e7,r,r,r,r,new A.adg(s,a),r,r)],l),B.aK,B.X,B.al),r),4,r,new A.bV(o,B.m)))}if(s.w!=null){o=A.hZ(10)
+p.push(A.ut(new A.bf(B.c4,A.dV(A.b([B.RY,B.aG,A.vW(n.b,B.hW,150,1/0),B.aG,B.k6,B.jY,A.d7(n.c,r,r,r,B.k4,r,r),B.aG,A.lG(m.h(0,"ETo"),B.EG,B.bS),B.aG,A.lG(m.h(0,"Kc"),B.EJ,B.bS),B.cc,A.ak3(!1,B.S1,r,r,B.e7,r,r,r,r,new A.adg(s,a),r,r)],l),B.aK,B.X,B.al),r),4,r,new A.bV(o,B.m)))}if(s.w!=null){o=A.hZ(10)
 n=$.avt()
 m=s.f
-p.push(A.ut(new A.bf(B.c4,A.dV(A.b([B.RS,B.aG,A.vW(n.b,B.hW,150,1/0),B.aG,B.k6,B.jY,A.d7(n.c,r,r,r,B.k4,r,r),B.aG,A.lG(m.h(0,"ETc"),B.EK,B.bS),B.aG,A.lG(m.h(0,"Li"),B.EF,B.bS),B.aG,A.lG(m.h(0,"Kr"),B.EE,B.bS),B.aG,A.lG(m.h(0,"A"),B.EH,B.bS),B.aG,A.lG(m.h(0,"Ea"),B.EI,B.bS),B.aG,A.lG(m.h(0,"LR"),B.EL,B.bS),B.cc,A.ak3(!1,B.RR,r,r,B.e7,r,r,r,r,new A.adh(s,a),r,r)],l),B.aK,B.X,B.al),r),4,r,new A.bV(o,B.m)))}return A.v6(A.II(q,A.apT(A.dV(p,B.aK,B.X,B.al),B.c4),!1,r),B.ax)}}
+p.push(A.ut(new A.bf(B.c4,A.dV(A.b([B.RT,B.aG,A.vW(n.b,B.hW,150,1/0),B.aG,B.k6,B.jY,A.d7(n.c,r,r,r,B.k4,r,r),B.aG,A.lG(m.h(0,"ETc"),B.EK,B.bS),B.aG,A.lG(m.h(0,"Li"),B.EF,B.bS),B.aG,A.lG(m.h(0,"Kr"),B.EE,B.bS),B.aG,A.lG(m.h(0,"A"),B.EH,B.bS),B.aG,A.lG(m.h(0,"Ea"),B.EI,B.bS),B.aG,A.lG(m.h(0,"LR"),B.EL,B.bS),B.cc,A.ak3(!1,B.RR,r,r,B.e7,r,r,r,r,new A.adh(s,a),r,r)],l),B.aK,B.X,B.al),r),4,r,new A.bV(o,B.m)))}return A.v6(A.II(q,A.apT(A.dV(p,B.aK,B.X,B.al),B.c4),!1,r),B.ax)}}
 A.adj.prototype={
 $0(){var s=this.a,r=this.b
 s.d=r
@@ -75107,7 +75107,7 @@ if(n>=1){A.ajd(new A.ad6(),this.b,t.z)
 return}A.ajd(new A.ad7(s*r*q*p/(1000*o)*(1/(1-n))),this.b,t.z)},
 $S:0}
 A.ad6.prototype={
-$1(a){return A.TJ(A.b([A.yV(B.hq,new A.ad3(a),null)],t.p),B.S6,B.RU)},
+$1(a){return A.TJ(A.b([A.yV(B.hq,new A.ad3(a),null)],t.p),B.S6,B.RV)},
 $S:61}
 A.ad3.prototype={
 $0(){A.eH(this.a,!1).oI(null)
@@ -75228,7 +75228,7 @@ r===$&&A.a()
 return A.fC(s,A.fC(s,s,B.u,s,new A.cM(s,s,s,s,s,new A.jE(B.yQ,1.2,B.cg,s,0,A.b([A.N(B.c.ae(255*r.b.ab(r.a.gm())),255,152,0),B.v],t.t_),B.GZ,s),B.ag),s,s,s,s),B.u,s,B.zg,s,s,s,s)},
 $S:472}
 A.agk.prototype={
-$2(a,b){var s,r,q,p,o=null,n=b.d,m=b.b,l=n*0.04,k=m*0.2,j=m*0.3,i=this.a,h=i.w
+$2(a,b){var s,r,q,p,o=null,n=b.d,m=b.b,l=n*0.04,k=m*0.22,j=m*0.3,i=this.a,h=i.w
 h===$&&A.a()
 s=i.f
 s===$&&A.a()
@@ -75237,7 +75237,7 @@ r=i.r
 r===$&&A.a()
 q=t.p
 r=A.qm(o,A.xX(A.b([s,A.dB(!1,A.a7B(A.vW("assets/images/faculty_logo.png",o,k,o),r,o,!0),h)],q),B.aq,B.en,B.al),o,o,24,24,l,o)
-h=A.qm(n-(n/2-j/2),A.kC(A.dB(!1,B.RV,h),o,o),o,o,0,0,l+k,o)
+h=A.qm(n-(n/2-j/2),A.kC(A.dB(!1,B.RW,h),o,o),o,o,0,0,l+k,o)
 s=i.y
 s===$&&A.a()
 p=i.x
@@ -75247,7 +75247,7 @@ p=i.Q
 p===$&&A.a()
 i=i.z
 i===$&&A.a()
-return A.iw(B.bE,A.b([r,h,s,A.qm(n*0.12,A.dB(!1,A.a6a(B.RW,i),p),o,o,0,0,o,o)],q),B.T,B.bh,o)},
+return A.iw(B.bE,A.b([r,h,s,A.qm(n*0.12,A.dB(!1,A.a6a(B.RX,i),p),o,o,0,0,o,o)],q),B.T,B.bh,o)},
 $S:473}
 A.Dc.prototype={
 bL(){this.cN()
@@ -75258,7 +75258,7 @@ if(r!=null)r.F(s.ge1())
 s.aH$=null
 s.aF()}}
 A.r1.prototype={
-H(a){var s=null,r=A.TN(B.eo,!0,s,s,B.S1)
+H(a){var s=null,r=A.TN(B.eo,!0,s,s,B.S2)
 return A.v6(new A.Ed(A.kC(new A.bf(B.Dy,A.dV(A.b([B.cc,A.ak4(B.Eq,B.y9,new A.a81(a),A.ak5(s,s,B.J4,s,s,s,s,s,s,s,s,B.jX,s,s,s,s,s,B.k2,s)),B.cc,A.ak4(B.Er,B.S5,new A.a82(a),A.ak5(s,s,B.eo,s,s,s,s,s,s,s,s,B.jX,s,s,s,s,s,B.k2,s)),B.Np,A.ak4(B.Ep,B.S8,new A.a83(a),A.ak5(s,s,B.J3,s,s,s,s,s,s,s,s,B.jX,s,s,s,s,s,B.k2,s))],t.p),B.aq,B.j9,B.al),s),s,s),r,s),B.ax)}}
 A.a81.prototype={
 $0(){var s=A.H6(new A.a80(),null,t.z)
@@ -81261,26 +81261,26 @@ B.Qt=new A.n(!0,B.n,null,"Roboto",B.L,null,null,null,null,null,null,null,null,nu
 B.QD=new A.n(!0,B.n,null,"Roboto",B.L,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.RQ=new A.dv(B.Rk,B.OW,B.PJ,B.Qs,B.QF,B.Ot,B.Pn,B.Ox,B.Qg,B.QR,B.PQ,B.QS,B.R0,B.Qt,B.QD)
 B.RR=new A.c1("\u062d\u0633\u0627\u0628 IWA",null,null,null,null,null,null,null,null)
+B.RS=new A.c1("\u062d\u0627\u0633\u0628\u0629 \u0627\u0644\u0627\u0633\u062a\u0647\u0644\u0627\u0643 \u0627\u0644\u0645\u0627\u0626\u064a",null,null,null,null,null,null,null,null)
 B.dv=new A.n(!0,null,null,null,null,null,18,B.bp,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RS=new A.c1("\u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0644\u0631\u064a (IWA):",null,B.dv,null,null,null,null,null,null)
+B.RT=new A.c1("\u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0644\u0631\u064a (IWA):",null,B.dv,null,null,null,null,null,null)
 B.hq=new A.c1("\u0625\u063a\u0644\u0627\u0642",null,null,null,null,null,null,null,null)
-B.RT=new A.c1("\u0627\u062e\u062a\u0631 \u0645\u0639\u0627\u062f\u0644\u0629 ETo:",null,B.dv,null,null,null,null,null,null)
-B.RU=new A.c1("\u062e\u0637\u0623",null,null,null,null,null,null,null,null)
+B.RU=new A.c1("\u0627\u062e\u062a\u0631 \u0645\u0639\u0627\u062f\u0644\u0629 ETo:",null,B.dv,null,null,null,null,null,null)
+B.RV=new A.c1("\u062e\u0637\u0623",null,null,null,null,null,null,null,null)
 B.k5=new A.c1("\u0627\u0644\u0646\u062a\u064a\u062c\u0629",null,null,null,null,null,null,null,null)
 B.Ry=new A.n(!0,B.B,null,"Cairo",null,null,28,B.fx,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RV=new A.c1("Irrigation Water Apply",null,B.Ry,B.cf,null,null,null,null,null)
+B.RW=new A.c1("Irrigation Water Apply",null,B.Ry,B.cf,null,null,null,null,null)
 B.Q2=new A.n(!0,B.j,null,"Cairo",null,null,26,B.bp,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.mv,null,null,null)
-B.RW=new A.c1("\u0642\u0633\u0645 \u0627\u0644\u0623\u0631\u0627\u0636\u064a \u0648\u0627\u0644\u0645\u064a\u0627\u0647",null,B.Q2,B.cf,null,null,null,null,null)
-B.RX=new A.c1("\u0627\u0644\u0627\u0633\u062a\u0647\u0644\u0627\u0643 \u0627\u0644\u0645\u0627\u0626\u064a (ETc):",null,B.dv,null,null,null,null,null,null)
+B.RX=new A.c1("\u0642\u0633\u0645 \u0627\u0644\u0623\u0631\u0627\u0636\u064a \u0648\u0627\u0644\u0645\u064a\u0627\u0647",null,B.Q2,B.cf,null,null,null,null,null)
+B.RY=new A.c1("\u0627\u0644\u0627\u0633\u062a\u0647\u0644\u0627\u0643 \u0627\u0644\u0645\u0627\u0626\u064a (ETc):",null,B.dv,null,null,null,null,null,null)
 B.k6=new A.c1("\u0627\u0644\u0634\u0631\u062d:",null,B.dv,null,null,null,null,null,null)
 B.y7=new A.n(!0,B.j,null,"Cairo",null,null,16,null,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RY=new A.c1("\u062a\u0645 \u062a\u0635\u0645\u064a\u0645 \u0648\u062a\u0646\u0641\u064a\u0630 \u0647\u0630\u0627 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0628\u0645\u062a\u0627\u0628\u0639\u0629 \u0648\u0625\u0634\u0631\u0627\u0641:",null,B.y7,null,null,null,null,null,null)
+B.RZ=new A.c1("\u062a\u0645 \u062a\u0635\u0645\u064a\u0645 \u0648\u062a\u0646\u0641\u064a\u0630 \u0647\u0630\u0627 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0628\u0645\u062a\u0627\u0628\u0639\u0629 \u0648\u0625\u0634\u0631\u0627\u0641:",null,B.y7,null,null,null,null,null,null)
 B.Rz=new A.n(!0,B.B,null,"Cairo",null,null,null,B.bp,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RZ=new A.c1("\u0639\u0646 \u0641\u0631\u064a\u0642 \u0627\u0644\u0639\u0645\u0644",null,B.Rz,null,null,null,null,null,null)
-B.S0=new A.c1("\u062d\u0633\u0627\u0628 ETc",null,null,null,null,null,null,null,null)
-B.S_=new A.c1("\u062d\u0633\u0627\u0628 ETo",null,null,null,null,null,null,null,null)
-B.S1=new A.c1("Welcome",null,null,null,null,null,null,null,null)
-B.S2=new A.c1("\u062d\u0627\u0633\u0628\u0629 \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a",null,null,null,null,null,null,null,null)
+B.S_=new A.c1("\u0639\u0646 \u0641\u0631\u064a\u0642 \u0627\u0644\u0639\u0645\u0644",null,B.Rz,null,null,null,null,null,null)
+B.S1=new A.c1("\u062d\u0633\u0627\u0628 ETc",null,null,null,null,null,null,null,null)
+B.S0=new A.c1("\u062d\u0633\u0627\u0628 ETo",null,null,null,null,null,null,null,null)
+B.S2=new A.c1("Welcome",null,null,null,null,null,null,null,null)
 B.S4=new A.c1("\u0623\u062f\u062e\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a:",null,B.dv,null,null,null,null,null,null)
 B.S5=new A.c1("Calculator IWA",null,null,null,null,null,null,null,null)
 B.S6=new A.c1("\u0642\u064a\u0645\u0629 \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u062c\u0627\u062a \u0627\u0644\u063a\u0633\u064a\u0644\u064a\u0629 (LR) \u064a\u062c\u0628 \u0623\u0646 \u062a\u0643\u0648\u0646 \u0623\u0642\u0644 \u0645\u0646 1.",null,null,null,null,null,null,null,null)
@@ -82066,7 +82066,7 @@ s($,"aJc","auA",()=>A.a05(A.bH([B.j1],t.v)))
 s($,"aJW","av3",()=>A.a05(A.bH([B.j2],t.v)))
 s($,"aKR","avz",()=>new A.a4d(A.z(t.N,A.ap("ah<cn?>?(cn?)"))))
 r($,"aKz","amC",()=>{var q=t.s
-return A.b([A.vr("\u062a\u0639\u062a\u0645\u062f \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0639\u0644\u0649 \u0645\u0639\u062f\u0644 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u064a\u0648\u0645\u064a\u0629 \u0648\u0646\u0633\u0628\u0629 \u0639\u062f\u062f \u0633\u0627\u0639\u0627\u062a \u0627\u0644\u0646\u0647\u0627\u0631.\n\n- ETo : \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a (mm/day).\n- T : \u0645\u062a\u0648\u0633\u0637 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u064a\u0648\u0645\u064a\u0629 (\xb0C).\n- p : \u0627\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u0626\u0648\u064a\u0629 \u0644\u0639\u062f\u062f \u0633\u0627\u0639\u0627\u062a \u0627\u0644\u0646\u0647\u0627\u0631 \u0641\u064a \u0627\u0644\u064a\u0648\u0645 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0639\u062f\u062f \u0633\u0627\u0639\u0627\u062a \u0627\u0644\u0646\u0647\u0627\u0631 \u0641\u064a \u0627\u0644\u0633\u0646\u0629.\n- c : \u062b\u0627\u0628\u062a \u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629.","ETo = c \\times T \\times p","assets/images/blaney_criddle.png",A.b(["T","p","c"],q),"\u0628\u0644\u0627\u0646\u064a-\u0643\u0631\u064a\u062f\u064a\u0644"),A.vr("\u062a\u064f\u0633\u062a\u062e\u062f\u0645 \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0644\u0644\u062a\u0646\u0628\u0624 \u0628\u0642\u064a\u0645 \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a \u0641\u064a \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u062a\u064a \u062a\u0648\u0641\u0631 \u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0646\u0627\u062e\u064a\u0629 \u062a\u0634\u0645\u0644 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0648\u0639\u062f\u062f \u0633\u0627\u0639\u0627\u062a \u0633\u0637\u0648\u0639 \u0627\u0644\u0634\u0645\u0633 \u0623\u0648 \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0634\u0645\u0633\u064a.\n\n- ETo : \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a (mm/day).\n- a, b : \u062b\u0648\u0627\u0628\u062a \u062a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0637\u0642\u0629.\n- W : \u0633\u0631\u0639\u0629 \u0627\u0644\u0631\u064a\u0627\u062d (m/s).\n- Rs : \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0634\u0645\u0633\u064a (MJ/m\xb2/day).","ETo = a \\times Rs + b \\times W","assets/images/radiation_equation.png",A.b(["a","b","Rs","W"],q),"\u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0627\u0644\u0625\u0634\u0639\u0627\u0639\u064a\u0629"),A.vr("\u062a\u064f\u0633\u062a\u062e\u062f\u0645 \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u062a\u0628\u062e\u0631 \u0627\u0644\u0645\u0642\u0627\u0633 \u0645\u0646 \u062d\u0648\u0636 \u0627\u0644\u062a\u0628\u062e\u0631.\n\n- ETo : \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a (mm/day).\n- Kp : \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u062a\u0628\u062e\u0631 \u0645\u0646 \u0627\u0644\u062d\u0648\u0636 (\u062b\u0627\u0628\u062a \u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0637\u0642\u0629).\n- Epan : \u0627\u0644\u062a\u0628\u062e\u0631 \u0627\u0644\u0645\u0642\u0627\u0633 \u0645\u0646 \u062d\u0648\u0636 \u0627\u0644\u062a\u0628\u062e\u0631 (mm/day).","ETo = Kp \\times Epan","assets/images/pan_evaporation.png",A.b(["Kp","Epan"],q),"\u0645\u0639\u0627\u062f\u0644\u0629 \u0627\u0644\u062a\u0628\u062e\u0631 \u0645\u0646 \u062d\u0648\u0636"),A.vr("\u062a\u0639\u062a\u0628\u0631 \u0645\u0639\u0627\u062f\u0644\u0629 \u0628\u0646\u0645\u0627\u0646-\u0645\u0648\u0646\u062a\u064a\u062b \u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0623\u0643\u062b\u0631 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0627\u062a \u062f\u0642\u0629 \u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a. \u062a\u0633\u062a\u0646\u062f \u0625\u0644\u0649 \u0639\u062f\u0629 \u0639\u0648\u0627\u0645\u0644 \u0645\u0646\u0627\u062e\u064a\u0629 \u0645\u062b\u0644 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629\u060c \u0627\u0644\u0631\u0637\u0648\u0628\u0629 \u0627\u0644\u0646\u0633\u0628\u064a\u0629\u060c \u0633\u0631\u0639\u0629 \u0627\u0644\u0631\u064a\u0627\u062d\u060c \u0648\u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0634\u0645\u0633\u064a.\n\n- ETo : \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a (mm/day).\n- \u0394 : \u0645\u064a\u0644 \u0645\u0646\u062d\u0646\u0649 \u0636\u063a\u0637 \u0628\u062e\u0627\u0631 \u0627\u0644\u0645\u0627\u0621 (kPa/\xb0C).\n- Rn : \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0635\u0627\u0641\u064a\u0629 \u0639\u0646\u062f \u0633\u0637\u062d \u0627\u0644\u0645\u062d\u0635\u0648\u0644 (MJ/m\xb2/day).\n- G : \u0643\u062b\u0627\u0641\u0629 \u062a\u062f\u0641\u0642 \u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u062a\u0631\u0628\u0629 (MJ/m\xb2/day).\n- **\u03b3**: \u0627\u0644\u062b\u0627\u0628\u062a \u0627\u0644\u0646\u0641\u0633\u064a (kPa/\xb0C).\n- T : \u0645\u062a\u0648\u0633\u0637 \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u0647\u0648\u0627\u0621 \u0627\u0644\u064a\u0648\u0645\u064a\u0629 (\xb0C).\n- u\u2082 : \u0633\u0631\u0639\u0629 \u0627\u0644\u0631\u064a\u0627\u062d \u0639\u0644\u0649 \u0627\u0631\u062a\u0641\u0627\u0639 2 \u0645\u062a\u0631 (m/s).\n- es : \u0636\u063a\u0637 \u0628\u062e\u0627\u0631 \u0627\u0644\u062a\u0634\u0628\u0639 (kPa).\n- ea : \u0636\u063a\u0637 \u0628\u062e\u0627\u0631 \u0627\u0644\u0647\u0648\u0627\u0621 \u0627\u0644\u0641\u0639\u0644\u064a (kPa).","ETo = \\frac{(0.408 \\Delta (Rn - G) + \\gamma \\frac{900}{T + 273} u_2 (es - ea))}{\\Delta + \\gamma (1 + 0.34 u_2)}","assets/images/fao_penman_monteith.png",A.b(["Rn","G","T","u2","es","ea","Delta","Gamma"],q),"\u0628\u0646\u0645\u0627\u0646-\u0645\u0648\u0646\u062a\u064a\u062b")],A.ap("A<kM>"))})
+return A.b([A.vr("\u062a\u0639\u062a\u0645\u062f \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0639\u0644\u0649 \u0645\u0639\u062f\u0644 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u064a\u0648\u0645\u064a\u0629 \u0648\u0646\u0633\u0628\u0629 \u0639\u062f\u062f \u0633\u0627\u0639\u0627\u062a \u0627\u0644\u0646\u0647\u0627\u0631.\n\n- ETo : \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a (mm/day).\n- T : \u0645\u062a\u0648\u0633\u0637 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u064a\u0648\u0645\u064a\u0629 (\xb0C).\n- p : \u0627\u0644\u0646\u0633\u0628\u0629 \u0627\u0644\u0645\u0626\u0648\u064a\u0629 \u0644\u0639\u062f\u062f \u0633\u0627\u0639\u0627\u062a \u0627\u0644\u0646\u0647\u0627\u0631 \u0641\u064a \u0627\u0644\u064a\u0648\u0645 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0639\u062f\u062f \u0633\u0627\u0639\u0627\u062a \u0627\u0644\u0646\u0647\u0627\u0631 \u0641\u064a \u0627\u0644\u0633\u0646\u0629.\n- c : \u062b\u0627\u0628\u062a \u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0645\u0646\u0627\u062e\u064a\u0629.","ETo = c \\times T \\times p","assets/images/blaney_criddle.png",A.b(["T","p","c"],q),"\u0628\u0644\u0627\u0646\u064a-\u0643\u0631\u064a\u062f\u064a\u0644"),A.vr("\u062a\u064f\u0633\u062a\u062e\u062f\u0645 \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0644\u0644\u062a\u0646\u0628\u0624 \u0628\u0642\u064a\u0645 \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a \u0641\u064a \u0627\u0644\u0645\u0646\u0627\u0637\u0642 \u0627\u0644\u062a\u064a \u062a\u0648\u0641\u0631 \u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0646\u0627\u062e\u064a\u0629 \u062a\u0634\u0645\u0644 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629 \u0648\u0639\u062f\u062f \u0633\u0627\u0639\u0627\u062a \u0633\u0637\u0648\u0639 \u0627\u0644\u0634\u0645\u0633 \u0623\u0648 \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0634\u0645\u0633\u064a.\n\n- ETo : \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a (mm/day).\n- a, b : \u062b\u0648\u0627\u0628\u062a \u062a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0637\u0642\u0629.\n- W : \u0633\u0631\u0639\u0629 \u0627\u0644\u0631\u064a\u0627\u062d (m/s).\n- Rs : \u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0634\u0645\u0633\u064a (MJ/m\xb2/day).","ETo = a \\times Rs + b \\times W","assets/images/radiation_equation.png",A.b(["a","b","Rs","W"],q),"\u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0627\u0644\u0625\u0634\u0639\u0627\u0639\u064a\u0629"),A.vr("\u062a\u064f\u0633\u062a\u062e\u062f\u0645 \u0647\u0630\u0647 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629 \u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u062a\u0628\u062e\u0631 \u0627\u0644\u0645\u0642\u0627\u0633 \u0645\u0646 \u062d\u0648\u0636 \u0627\u0644\u062a\u0628\u062e\u0631.\n\n- ETo : \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a (mm/day).\n- Kp : \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u062a\u0628\u062e\u0631 \u0645\u0646 \u0627\u0644\u062d\u0648\u0636 (\u062b\u0627\u0628\u062a \u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0637\u0642\u0629).\n- Epan : \u0627\u0644\u062a\u0628\u062e\u0631 \u0627\u0644\u0645\u0642\u0627\u0633 \u0645\u0646 \u062d\u0648\u0636 \u0627\u0644\u062a\u0628\u062e\u0631 (mm/day).","ETo = Kp \\times Epan","assets/images/pan_evaporation.png",A.b(["Kp","Epan"],q),"\u0645\u0639\u0627\u062f\u0644\u0629 \u0648\u0639\u0627\u0621 \u0627\u0644\u0628\u062e\u0631"),A.vr("\u062a\u0639\u062a\u0628\u0631 \u0645\u0639\u0627\u062f\u0644\u0629 \u0628\u0646\u0645\u0627\u0646-\u0645\u0648\u0646\u062a\u064a\u062b \u0648\u0627\u062d\u062f\u0629 \u0645\u0646 \u0623\u0643\u062b\u0631 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0627\u062a \u062f\u0642\u0629 \u0644\u062d\u0633\u0627\u0628 \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a. \u062a\u0633\u062a\u0646\u062f \u0625\u0644\u0649 \u0639\u062f\u0629 \u0639\u0648\u0627\u0645\u0644 \u0645\u0646\u0627\u062e\u064a\u0629 \u0645\u062b\u0644 \u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629\u060c \u0627\u0644\u0631\u0637\u0648\u0628\u0629 \u0627\u0644\u0646\u0633\u0628\u064a\u0629\u060c \u0633\u0631\u0639\u0629 \u0627\u0644\u0631\u064a\u0627\u062d\u060c \u0648\u0627\u0644\u0625\u0634\u0639\u0627\u0639 \u0627\u0644\u0634\u0645\u0633\u064a.\n\n- ETo : \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a (mm/day).\n- \u0394 : \u0645\u064a\u0644 \u0645\u0646\u062d\u0646\u0649 \u0636\u063a\u0637 \u0628\u062e\u0627\u0631 \u0627\u0644\u0645\u0627\u0621 (kPa/\xb0C).\n- Rn : \u0627\u0644\u0637\u0627\u0642\u0629 \u0627\u0644\u0635\u0627\u0641\u064a\u0629 \u0639\u0646\u062f \u0633\u0637\u062d \u0627\u0644\u0645\u062d\u0635\u0648\u0644 (MJ/m\xb2/day).\n- G : \u0643\u062b\u0627\u0641\u0629 \u062a\u062f\u0641\u0642 \u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u062a\u0631\u0628\u0629 (MJ/m\xb2/day).\n- **\u03b3**: \u0627\u0644\u062b\u0627\u0628\u062a \u0627\u0644\u0646\u0641\u0633\u064a (kPa/\xb0C).\n- T : \u0645\u062a\u0648\u0633\u0637 \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u0629 \u0627\u0644\u0647\u0648\u0627\u0621 \u0627\u0644\u064a\u0648\u0645\u064a\u0629 (\xb0C).\n- u\u2082 : \u0633\u0631\u0639\u0629 \u0627\u0644\u0631\u064a\u0627\u062d \u0639\u0644\u0649 \u0627\u0631\u062a\u0641\u0627\u0639 2 \u0645\u062a\u0631 (m/s).\n- es : \u0636\u063a\u0637 \u0628\u062e\u0627\u0631 \u0627\u0644\u062a\u0634\u0628\u0639 (kPa).\n- ea : \u0636\u063a\u0637 \u0628\u062e\u0627\u0631 \u0627\u0644\u0647\u0648\u0627\u0621 \u0627\u0644\u0641\u0639\u0644\u064a (kPa).","ETo = \\frac{(0.408 \\Delta (Rn - G) + \\gamma \\frac{900}{T + 273} u_2 (es - ea))}{\\Delta + \\gamma (1 + 0.34 u_2)}","assets/images/fao_penman_monteith.png",A.b(["Rn","G","T","u2","es","ea","Delta","Gamma"],q),"\u0628\u0646\u0645\u0627\u0646-\u0645\u0648\u0646\u062a\u064a\u062b")],A.ap("A<kM>"))})
 s($,"aKy","avs",()=>A.vr("\u0627\u0644\u0627\u0633\u062a\u0647\u0644\u0627\u0643 \u0627\u0644\u0645\u0627\u0626\u064a (ETc) \u0647\u0648 \u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u062a\u064a \u064a\u062d\u062a\u0627\u062c\u0647\u0627 \u0627\u0644\u0645\u062d\u0635\u0648\u0644 \u0628\u0646\u0627\u0621\u064b \u0639\u0644\u0649 \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u062d\u0635\u0648\u0644 (Kc).\n\n- ETc : \u0627\u0644\u0627\u0633\u062a\u0647\u0644\u0627\u0643 \u0627\u0644\u0645\u0627\u0626\u064a (mm/day).\n- ETo : \u0627\u0644\u0628\u062e\u0631\u0646\u062a\u062d \u0627\u0644\u0645\u0631\u062c\u0639\u064a (mm/day).\n- Kc : \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u0645\u062d\u0635\u0648\u0644.","ETc = ETo \xd7 Kc","assets/images/et_c_equation.png",A.b(["ETo","Kc"],t.s),"\u0627\u0644\u0627\u0633\u062a\u0647\u0644\u0627\u0643 \u0627\u0644\u0645\u0627\u0626\u064a (ETc)"))
 s($,"aKB","avt",()=>A.vr("\u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0644\u0631\u064a (IWA) \u062a\u0634\u064a\u0631 \u0625\u0644\u0649 \u0627\u0644\u062d\u062c\u0645 \u0627\u0644\u0625\u062c\u0645\u0627\u0644\u064a \u0644\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0630\u064a \u064a\u062c\u0628 \u062a\u0648\u0641\u064a\u0631\u0647 \u0644\u0631\u064a \u0627\u0644\u0645\u062d\u0627\u0635\u064a\u0644\u060c \u0645\u0639 \u0645\u0631\u0627\u0639\u0627\u0629 \u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0631\u064a \u0648\u0627\u0644\u0627\u062d\u062a\u064a\u0627\u062c\u0627\u062a \u0627\u0644\u063a\u0633\u064a\u0644\u064a\u0629.\n\n- IWA : \u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0644\u0631\u064a (m\xb3/ha).\n- ETc : \u0627\u0644\u0627\u0633\u062a\u0647\u0644\u0627\u0643 \u0627\u0644\u0645\u0627\u0626\u064a (mm/day).\n- Li : \u0627\u0644\u0641\u062a\u0631\u0629 \u0645\u0627\u0628\u064a\u0646 \u0627\u0644\u0631\u064a\u0627\u062a (days).\n- Kr : \u0645\u0639\u0627\u0645\u0644 \u0627\u0644\u062a\u063a\u0637\u064a\u0629.\n- A : \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u062d\u0648\u0636 \u0628\u0627\u0644\u0645\u062a\u0631 \u0627\u0644\u0645\u0631\u0628\u0639 (m\xb2).\n- Ea : \u0643\u0641\u0627\u0621\u0629 \u0627\u0644\u0631\u064a.\n- LR : \u0627\u0644\u0627\u062d\u062a\u064a\u0627\u062c\u0627\u062a \u0627\u0644\u063a\u0633\u064a\u0644\u064a\u0629.","IWA = \\frac{(ETc \\times Li \\times Kr \\times A)}{1000 \\times Ea} \\times \\frac{1}{(1 - LR)}","assets/images/iwa_equation.png",A.b(["ETc","Li","Kr","A","Ea","LR"],t.s),"\u0643\u0645\u064a\u0629 \u0627\u0644\u0645\u064a\u0627\u0647 \u0627\u0644\u0644\u0627\u0632\u0645\u0629 \u0644\u0644\u0631\u064a (IWA)"))
 r($,"aH1","amj",()=>{var q=null
